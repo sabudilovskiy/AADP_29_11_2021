@@ -1,0 +1,6 @@
+#ifndef AADP_29_11_2021_LIBRARY_H
+#define AADP_29_11_2021_LIBRARY_H
+
+void hello();
+
+#endif //AADP_29_11_2021_LIBRARY_H
